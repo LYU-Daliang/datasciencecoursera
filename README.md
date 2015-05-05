@@ -1,2 +1,2 @@
 # datasciencecoursera
-My your datasciencecoursera repo.
+My datasciencecoursera repo.
